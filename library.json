@@ -17,7 +17,132 @@
       "imdb": "tt0315008"
     }
   ],
-  "subtitles": {},
+  "subtitles": {
+    "the-boondocks": {
+      "S02E01": {
+        "en": "subs/the-boondocks/S02E01.en.vtt"
+      },
+      "S02E02": {
+        "en": "subs/the-boondocks/S02E02.en.vtt"
+      },
+      "S02E03": {
+        "en": "subs/the-boondocks/S02E03.en.vtt"
+      },
+      "S02E04": {
+        "en": "subs/the-boondocks/S02E04.en.vtt"
+      },
+      "S02E05": {
+        "en": "subs/the-boondocks/S02E05.en.vtt"
+      },
+      "S02E06": {
+        "en": "subs/the-boondocks/S02E06.en.vtt"
+      },
+      "S02E07": {
+        "en": "subs/the-boondocks/S02E07.en.vtt"
+      },
+      "S02E08": {
+        "en": "subs/the-boondocks/S02E08.en.vtt"
+      },
+      "S02E09": {
+        "en": "subs/the-boondocks/S02E09.en.vtt"
+      },
+      "S02E10": {
+        "en": "subs/the-boondocks/S02E10.en.vtt"
+      },
+      "S02E11": {
+        "en": "subs/the-boondocks/S02E11.en.vtt"
+      },
+      "S02E12": {
+        "en": "subs/the-boondocks/S02E12.en.vtt"
+      },
+      "S02E13": {
+        "en": "subs/the-boondocks/S02E13.en.vtt"
+      },
+      "S02E14": {
+        "en": "subs/the-boondocks/S02E14.en.vtt"
+      },
+      "S02E15": {
+        "en": "subs/the-boondocks/S02E15.en.vtt"
+      }
+    },
+    "samurai-champloo": {
+      "S01E01": {
+        "en": "subs/samurai-champloo/S01E01.en.vtt"
+      },
+      "S01E02": {
+        "en": "subs/samurai-champloo/S01E02.en.vtt"
+      },
+      "S01E03": {
+        "en": "subs/samurai-champloo/S01E03.en.vtt"
+      },
+      "S01E04": {
+        "en": "subs/samurai-champloo/S01E04.en.vtt"
+      },
+      "S01E05": {
+        "en": "subs/samurai-champloo/S01E05.en.vtt"
+      },
+      "S01E06": {
+        "en": "subs/samurai-champloo/S01E06.en.vtt"
+      },
+      "S01E07": {
+        "en": "subs/samurai-champloo/S01E07.en.vtt"
+      },
+      "S01E08": {
+        "en": "subs/samurai-champloo/S01E08.en.vtt"
+      },
+      "S01E09": {
+        "en": "subs/samurai-champloo/S01E09.en.vtt"
+      },
+      "S01E10": {
+        "en": "subs/samurai-champloo/S01E10.en.vtt"
+      },
+      "S01E11": {
+        "en": "subs/samurai-champloo/S01E11.en.vtt"
+      },
+      "S01E12": {
+        "en": "subs/samurai-champloo/S01E12.en.vtt"
+      },
+      "S01E13": {
+        "en": "subs/samurai-champloo/S01E13.en.vtt"
+      },
+      "S01E14": {
+        "en": "subs/samurai-champloo/S01E14.en.vtt"
+      },
+      "S01E15": {
+        "en": "subs/samurai-champloo/S01E15.en.vtt"
+      },
+      "S01E16": {
+        "en": "subs/samurai-champloo/S01E16.en.vtt"
+      },
+      "S01E17": {
+        "en": "subs/samurai-champloo/S01E17.en.vtt"
+      },
+      "S01E18": {
+        "en": "subs/samurai-champloo/S01E18.en.vtt"
+      },
+      "S01E19": {
+        "en": "subs/samurai-champloo/S01E19.en.vtt"
+      },
+      "S01E20": {
+        "en": "subs/samurai-champloo/S01E20.en.vtt"
+      },
+      "S01E21": {
+        "en": "subs/samurai-champloo/S01E21.en.vtt"
+      },
+      "S01E22": {
+        "en": "subs/samurai-champloo/S01E22.en.vtt"
+      },
+      "S01E23": {
+        "en": "subs/samurai-champloo/S01E23.en.vtt"
+      },
+      "S01E24": {
+        "en": "subs/samurai-champloo/S01E24.en.vtt"
+      },
+      "S01E25": {
+        "en": "subs/samurai-champloo/S01E25.en.vtt"
+      }
+    }
+  },
   "settings": {
     "tvWidth": 1820
   }

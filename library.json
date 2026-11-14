@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "series": [
+    {
+      "slug": "great-teacher-onizuka",
+      "title": "Great Teacher Onizuka",
+      "identifier": "great-teacher-onizuka-ep.-01",
+      "auto": true,
+      "year": 1999,
+      "rating": "TV-MA",
+      "genres": [
+        "Anime",
+        "Komedi",
+        "Drama"
+      ],
+      "description": "Former biker gang leader Eikichi Onizuka has a new and reformed ambition: to become the greatest teacher ever. With a rowdy (and somewhat illegal) teaching style, and weakness for pretty girls, Mr. Onizuka finds himself in one predicament after another on his quest to make school fun.",
+      "imdb": "tt0315008"
+    }
+  ],
+  "subtitles": {},
+  "settings": {}
+}

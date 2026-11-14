@@ -18,5 +18,7 @@
     }
   ],
   "subtitles": {},
-  "settings": {}
+  "settings": {
+    "tvWidth": 1900
+  }
 }
